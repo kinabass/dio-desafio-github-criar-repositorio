@@ -1,0 +1,2 @@
+Link para download do Git: https://git-scm.com/downloads
+No Youtube há diversos vídeo aulas ensinando como trabalhar no Git e GitHub
